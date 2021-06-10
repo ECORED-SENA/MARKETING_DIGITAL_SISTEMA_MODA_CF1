@@ -27,7 +27,7 @@
         .tarjeta-Avatar
           img(src='@/assets/curso/tema_3/img_3.svg' alt='AvatarTop')
           .tarjeta.color_tar2.p-3
-            .h5.text-center ¿Qué es lo que se va a vender? 
+            .h5.text-center ¿A quién? 
 
       .col-md-6.col-lg.mb-5
         .tarjeta-Avatar

@@ -10,7 +10,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5
-        .cajon--morado_1.p-5
+        .cajon--morado_1.p-5.mb-5
           p El marketing mezclado es uno de los elementos clásicos del marketing, el cual engloba los cuatros componentes básicos: #[strong precio, producto, comunicación y distribución.] Estas variables son conocidas como las 4P por su acepción anglosajona (product, price, place y promotion). En el siguiente gráfico interactivo, se puede apreciar de qué se trata cada una de ellas.
         
       .col-lg-6
@@ -78,7 +78,7 @@
           .h3 01
           .h4 Consumidor
           img.mb-3.img-b(src='@/assets/curso/tema_4/img_6.png')
-          p Todas las estrategias para promocionar y vender un producto se basan en #[strong los gustos, deseos y necesidades de los consumidores], por ello, el marketing digital está tan enfocado en conocer y analizar su público través de diversas técnicas para lograr efectividad en sus procesos.
+          p Todas las estrategias para promocionar y vender un producto se basan en #[strong los gustos, deseos y necesidades de los consumidores], por ello, el marketing digital está tan enfocado en conocer y analizar su público através de diversas técnicas para lograr efectividad en sus procesos.
 
       .col-lg-3.mb-5
         .tarjeta.color-secundario.p-4.alt_tarj

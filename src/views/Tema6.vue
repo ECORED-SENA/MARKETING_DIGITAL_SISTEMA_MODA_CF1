@@ -20,77 +20,77 @@
     .h4 Dimensiones en el análisis de la competencia
     p.mb-5 El punto de partida para el análisis de la competencia es el análisis comparativo de la propuesta de valor, con sus características y beneficios del producto. Esto posibilita #[strong identificar los elementos diferenciadores frente a productos similares de otras empresas], teniendo claro que es importante generar diferencias racionales, como son las características del precio, y emocionales, como el significado de la marca en la vida de los consumidores. Para realizar el análisis de los competidores, hay que tener en cuenta las siguientes dimensiones:
 
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_2.svg')
       .col-lg-10
         .h4 Elementos relacionados con el posicionamiento de la marca
         p Posicionar es generar una imagen de la marca, producto, o servicio en las mentes de los consumidores. Se construye desde la percepción que tiene el consumidor individualmente con respecto a la competencia. Debe estar basado en elementos tales como diferenciación, beneficios relevantes, inversiones rentables, comunicación clara y procesos de perfeccionamiento, con los que se incrementa cada vez más el valor añadido, generando ventajas competitivas.
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_3.svg')
       .col-lg-10
         .h4 Elementos de las ventas y la participación en el mercado
         p Consisten en el porcentaje de ventas y comercialización de un producto o servicio, y son el resultado de la estrategia de mercadeo, donde se identifican precios de comercialización, estrategias de publicidad, distribución, descuentos, identificando zonas geográficas fuertes y débiles, en comparación con los competidores.
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_4.svg')
       .col-lg-10
         .h4 Elementos de visibilidad y publicidad
         p Se busca identificar la inversión publicitaria y el ruido, es decir, volumen y cantidad de dicha publicidad en términos de frecuencia y alcance del mensaje.
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_5.svg')
       .col-lg-10
         .h4 Elementos de ventajas y características competitivas
         p Identificar los beneficios y características de los productos de nuestros competidores, para generar superioridad sobre ellos y que dichas características aíslen a nuestra empresa de dichos competidores.
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_6.svg')
       .col-lg-10
         .h4 Elementos de costo, rentabilidad y eficiencia logística
         p Analizar toda la estructura de costos de los competidores, su logística, y la eficiencia. Estos elementos pueden ser ventaja o barrera competitiva.
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_7.svg')
       .col-lg-10
         .h4 Elementos de precio
         p Para la estrategia de precios, es necesario conocer los precios, descuentos  y las condiciones de negociación de la competencia.
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_8.svg')
       .col-lg-10
         .h4 Elementos comunicativos
         p Identificar la estrategia comunicativa, el target, elementos de la promesa de valor y todos aquellos elementos comunicativos diferenciadores de la marca. 
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_9.svg')
       .col-lg-10
         .h4 Elementos de satisfacción del cliente
         p Establecer benchmarks para identificar indicadores de satisfacción de los clientes propios y de la competencia. 
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_10.svg')
       .col-lg-10
         .h4 Elementos de canales de distribución
         p Conocer la penetración y la presencia en el mercado del competidor.  
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_11.svg')
       .col-lg-10
         .h4 Elementos de marca y actividades de punto de venta
         p Analizar las acciones de activación e impulso de marcas de la competencia en diferentes puntos de venta y en las estrategias de consumo masivo.  
     hr.hr
-    .row
+    .row.align-items-center
       .col-lg-2
         img.img-a(src='@/assets/curso/tema_6/img_12.svg')
       .col-lg-10

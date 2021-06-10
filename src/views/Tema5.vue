@@ -17,7 +17,7 @@
     .bloque-texto-a1.color-secundario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
         .col-lg-4.mb-4.mb-lg-0
-          .h3.mb-0 Estructura del plan de mercadeo.
+          .h3.mb-0 Estructura del plan de mercadeo
         .col-lg-8
           .bloque-texto-a1__texto.p-4
             p Hay tantas formas de estructurar un plan de mercadeo como empresas existentes. Sin embargo, se pueden definir unos elementos comunes y necesarios a la hora de estructurarlo. #[strong El plan de marketing se divide en una serie de fases y etapas consecutivas], que puedes observar en la siguiente infografía, para que evalúes la forma de implementarlo en tu contexto laboral.
@@ -38,8 +38,8 @@
             p.tamano-txt.text-center
               strong +
           .col-lg-2
-            .recua1.p-2
-              p.text-center 
+            .recua1.p-2.min_span 
+              p.text-center
                 strong Mercadeo
           .col-lg-1
             p.text-center #[strong =]

@@ -26,7 +26,7 @@
 
     p.mb-5 El comercio electrónico tiene sus cimientos en el año 1920, cuando diversas empresas mayoristas generaron catálogos impresos, donde incluían imágenes e información de sus productos. Este material permitía que las personas desde sus casas escogieran dichos productos para su compra (Silva Murillo, 2009). Posterior a esto, #[strong con la llegada del computador y el Internet se generaron nuevas rutas para conectar las empresas con su público objetivo], rompiendo barreras de espacio haciendo uso de las diferentes herramientas desarrolladas junto a los avances tecnológicos.
 
-    img.mb-5.img-a(src='@/assets/curso/tema_7/img_2.png')
+    img.mb-5(src='@/assets/curso/tema_7/img_2.png')
 
     p.mb-5 El e-commerce surge como una manera de cubrir la demanda de negocios globales y hace parte de la economía mundial. Se considera #[strong fundamental para el desarrollo empresarial a nivel internacional e, incluso a nivel social], está definiendo con fuerza, pues permite eliminar barreras entre países con el intercambio de bienes y servicios, mediante un contacto totalmente digitalizado, en tiempo real, entre un proveedor y un cliente con fines netamente comerciales, lo que posibilita altas penetraciones a nivel global. Existen varias modalidades de comercio electrónico. Es de destacar que se pueden definir cuatro tipos de comercio electrónico (Silva Murillo, 2009, p.158-161), como se aprecia a continuación.
 
@@ -64,82 +64,82 @@
     p.mb-5 El comercio electrónico se caracteriza por varios elementos.
 
     ol.lista-ol--cuadro.lista-ol--separador.mb-5
-      li 
+      li.align-items-center 
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong a
-        p #[strong Ubicuidad]
+        p.text_ta #[strong Ubicuidad]
           br
           | No se requiere lugar físico para la realización de transacciones. Internet posibilita disponibilidad horaria, de espacio y de momento, es decir, la red de Internet está disponible en todos lados.
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong b
-        p #[strong Alcance global]
+        p.text_ta #[strong Alcance global]
           br
           | Posibilita la configuración de un mercado con transacciones comerciales sin límites.
 
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong c
-        p #[strong Interactividad]
+        p.text_ta #[strong Interactividad]
           br
           | En aras de satisfacer las necesidades del cliente, el comercio electrónico genera estrategias de interacción permanente entre comerciante y usuario.
 
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong d
-        p #[strong Personalización]
+        p.text_ta #[strong Personalización]
           br
           | A través de una segmentación, se puede contactar al consumidor y ajustar el mensaje con sus intereses específicos.
 
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong e
-        p #[strong Adecuación]
+        p.text_ta #[strong Adecuación]
           br
           | Con base en las preferencias o comportamiento del usuario, se pueden generar cambios de producto o servicio.
 
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong f
-        p #[strong Tecnología social]
+        p.text_ta #[strong Tecnología social]
           br
           | Posibilidad de que el usuario genere contenidos que pueden ser compartidos por medio de canales de internet o redes sociales.
 
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong g
-        p #[strong Densidad de la información]
+        p.text_ta #[strong Densidad de la información]
           br
           | Disponibilidad de la información para clientes, comerciantes y participantes del mercado, en igual condición, posibilitando intercambios permanentes.
 
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong h
-        p #[strong Estándares universales]
+        p.text_ta #[strong Estándares universales]
           br
           | Implementación de plataformas y métodos estandarizados que reducen costos y esfuerzos de búsqueda para los consumidores.
 
 
-      li 
+      li.align-items-center  
         .lista-ol--cuadro__vineta
           span.txt_color 
             strong i
-        p #[strong Riqueza]
+        p.text_ta #[strong Riqueza]
           br
           | La web permite, durante la venta de bienes y servicios, transmitir mensajes, textos, imágenes, videos que generan interactividad y riqueza.
 
