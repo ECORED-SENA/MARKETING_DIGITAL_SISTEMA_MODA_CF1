@@ -11,10 +11,10 @@
     p.mb-5 Se puede plantear el comercio electrónico, o e-commerce, en su definición más amplia, #[strong como el proceso de comercialización (compra y venta) de productos por medios electrónicos, utilizando aplicaciones móviles e Internet]; o como una acción empresarial para mejorar sus ventas a través del uso de las nuevas tecnologías. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-3
         img.img-a(src='@/assets/curso/tema_7/img_1.png')
       .col-lg-6
-        .cajon--amarillo.p-4
+        .cajon--amarillo.p-5
           p Según Rincón (2017), #[strong el comercio electrónico es una metodología inteligente para hacer negocios, la cual es capaz de detectar necesidades de empresas, comerciantes y consumidores]. Asimismo, ayuda a la reducción de costos de operación y desplazamientos de los intervinientes en la relación comercial, además de mejorar el tiempo de entrega de los bienes, ya sean estos productos o servicios. 
 
     

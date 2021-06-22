@@ -8,7 +8,7 @@
         .h3 2 
       .h3 Tipos de mercadeo
 
-    p.mb-5 Hay diversos tipos de mercadeo, que se direccionan y se mezclan según la intención de la estrategia de las organizaciones. A continuación, se pueden observar los más conocidos. #[strong ¿Cuáles son? ¿Qué características tienen? ¿Cuál de todos elegir para la vida laboral?] Las siguientes tarjetas puede ayudar a la identificación de las respuestas.
+    p.mb-5 Hay diversos tipos de mercadeo, que se direccionan y se mezclan según la intención de la estrategia de las organizaciones. A continuación, se pueden observar los más conocidos. #[strong ¿Cuáles son? ¿Qué características tienen? ¿Cuál de todos elegir para la vida laboral?] Las siguientes tarjetas pueden ayudar a la identificación de las respuestas.
 
     .row
       .col-lg-4.mb-5
