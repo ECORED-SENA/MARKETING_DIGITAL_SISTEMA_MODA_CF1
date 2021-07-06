@@ -73,30 +73,30 @@
         p Con las 4C, #[strong se distinguen cuatro importantes aspectos a tener en cuenta para entender y desplegar una estrategia]. Ellos son: consumidor, costo, conveniencia y comunicación. Este modelo fue propuesto por Robert F. Lauterborn, en 1990, quien vio la necesidad de actualizar, al entorno digital, el modelo del mercadeo tradicional de 4P (producto, precio, plaza y promoción), sin perder su esencia (Shum Xie, 2019). Observe a continuación sus cualidades en el recurso educativo. 
 
     .row
-      .col-lg-3.mb-5
-        .tarjeta.color_tar.p-4.alt_tarj
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color_tar.p-4
           .h3 01
           .h4 Consumidor
           img.mb-3.img-b(src='@/assets/curso/tema_4/img_6.png')
           p Todas las estrategias para promocionar y vender un producto se basan en #[strong los gustos, deseos y necesidades de los consumidores], por ello, el marketing digital está tan enfocado en conocer y analizar su público através de diversas técnicas para lograr efectividad en sus procesos.
 
-      .col-lg-3.mb-5
-        .tarjeta.color-secundario.p-4.alt_tarj
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color-secundario.p-4
           .h3 02
           .h4 Costo
           img.mb-3.img-b(src='@/assets/curso/tema_4/img_6.png')
           p Este se entiende como el precio a pagar por un bien o servicio, el cual puede depender de distintos factores, como la producción, la calidad o el poder adquisitivo del público objetivo. Esta información será usada por el consumidor para 
             strong decidir si adquiere o no dicho elemento.
 
-      .col-lg-3.mb-5
-        .tarjeta.color_tar.p-4.alt_tarj
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color_tar.p-4
           .h3 03
           .h4 Conveniencia
           img.mb-3.img-b(src='@/assets/curso/tema_4/img_6.png')
           p Supone el proceso de compra, teniendo en cuenta el servicio al cliente, #[strong la comodidad del consumidor y claridad de información del producto] o servicio que va a adquirir, lo que permite fidelizar a un público.
 
-      .col-lg-3.mb-5
-        .tarjeta.color-secundario.p-4.alt_tarj
+      .col-lg-3.mb-5.d-flex
+        .tarjeta.color-secundario.p-4
           .h3 04
           .h4 Comunicación
           img.mb-3.img-b(src='@/assets/curso/tema_4/img_6.png')
