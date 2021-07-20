@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Sistema moda',
+    componenteFormativo: 'Fundamentos del mercadeo',
     descripcionCurso:
-      'Cuando se habla de sistema moda, se concluye que la moda y las tendencias permean áreas en las que todo ser humano se desenvuelve y representan el estilo de vida de un individuo y una comunidad.<br><br>La industria de la moda mueve un gran sector de la economía a nivel mundial y por ello, supone importante conocer su trascendencia y el manejo de su mercado.',
+      'El propósito de este componente de formación es ayudar a los aprendices a desarrollar su comprensión de los conceptos básicos del mercadeo y a entender la importancia de llevar a cabo un plan de mercadeo como estrategia clave a la hora de iniciar cualquier tipo de negocio, asegurando el crecimiento en el mercado de consumidores de su producto o servicio.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -118,11 +118,6 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -200,7 +195,8 @@ export default {
     {
       referencia:
         'Xie, Y. M. S. (2021). Marketing digital: Navegando en aguas digitales, sumérgete conmigo. Ediciones de la U.',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=9100 ',
+      link:
+        'https://login.bdigital.sena.edu.co/login?url=http://www.ebooks7-24.com/?il=9100',
     },
   ],
   glosario: [
@@ -253,10 +249,13 @@ export default {
     },
   ],
   creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-    },
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
+      },
+    ],
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',

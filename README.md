@@ -1,4 +1,4 @@
-# **Sistema moda**
+# **Fundamentos del mercadeo**
 
 ## **Enlace GitHubPages**
 

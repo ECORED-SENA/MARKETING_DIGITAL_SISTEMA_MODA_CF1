@@ -1,1 +1,1 @@
-module.exports = 'Sistema moda'
+module.exports = 'Fundamentos del mercadeo'

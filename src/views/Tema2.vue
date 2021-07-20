@@ -27,7 +27,7 @@
 
       .col-lg-4.mb-5
         .tarjeta.color-secundario.p-4
-          .h4.text-center.mt-5 Online
+          .h4.text-center.mt-5 #[i Online]
           p.mb-5.text-center Basado en las acciones y 
             br
             |
